@@ -1,0 +1,22 @@
+# Ambientes Virtuais Python
+.venv/
+venv/
+env/
+ENV/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos e pastas de PDF (dados locais e compilados)
+*.pdf
+pdfs/
+
+# IDEs e editores
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
